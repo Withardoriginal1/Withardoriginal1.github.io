@@ -33,7 +33,7 @@ class Login {
                     this.body.querySelector('#contains').classList.remove('transition-start');
                 },2000)
             }, 1000);
-        }, );//3500
+        },3500 );//3500
     }
 
     /**
